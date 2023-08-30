@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UmeshVellapilakal
 - 👀 I’m interested in Robotics and Artificial Intelligence.
-- 🌱 I’m currently Working as a Robotics Engineer.
+- 🌱 I’m currently Working as a Robotics Engineer NOVATECH ROBO.
 - 💞️ I’m looking to collaborate on any Robotics or AI projects.
 - 📫 How to reach me @linkedIn ID : Umesh VP
 
